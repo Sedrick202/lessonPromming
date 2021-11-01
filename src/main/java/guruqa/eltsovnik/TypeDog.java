@@ -24,11 +24,11 @@ public class TypeDog {
         marli.weight = 30;
         marli.height = 25;
 
-        bob.ShowDogParams();
+        bob.showDogParams();
         System.out.println("");
-        lafi.ShowDogParams();
+        lafi.showDogParams();
         System.out.println("");
-        marli.ShowDogParams();
+        marli.showDogParams();
 
 
     }
